@@ -1,6 +1,5 @@
 .sec-background{
     background-color: #264653;
-
 }
 
 .intro-peragraph{
@@ -14,12 +13,14 @@
 }
 
 .client-color{
-        color: #E76F51;
-    
+        color: #E76F51; 
 }
 
 .review-person{
     color: #23A6F0;
+}
+.make-gray{
+    filter: grayscale(1);
 }
 
 
